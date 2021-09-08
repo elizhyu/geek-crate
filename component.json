@@ -1,0 +1,7 @@
+{
+    "name": "geek-crate",
+    "description": "Geek Crate",
+    "version": "0.0.1",
+    "local": ["boot"],
+    "paths": ["lib"]
+}
