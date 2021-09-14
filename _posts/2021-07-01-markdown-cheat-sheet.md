@@ -7,7 +7,7 @@ layout: null
 ---
 ## What is markdown?
 
-> Markdown is "a plain text format for writing structured documents, based on formatting conventions from email and usenet" -- [CommonMark][]
+> Markdown is "a plain text format for writing structured documents, based on formatting conventions from email and usenet"
 
 Sites like GitHub and Stackoverflow have popularized the use markdown as a plain-text alternative to traditional text editors, for writing things like documentation and comments.
 
